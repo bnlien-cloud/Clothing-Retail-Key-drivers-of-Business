@@ -1,5 +1,6 @@
 # Clothing Retail: Key Drivers of Business
 ## 8) 💡 Insights & Recommendations
+![image](./Graphs/graph-1.png)
 
 ### Key Findings
 **2019 Total Revenue by Store (Top 10):**
